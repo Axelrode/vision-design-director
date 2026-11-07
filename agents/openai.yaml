@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vision"
+  short_description: "AI design direction for your product"
+  default_prompt: "Use $vision to review or improve this product's design and UX."
